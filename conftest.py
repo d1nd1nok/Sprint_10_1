@@ -30,6 +30,4 @@ def taxi_tariff_block(driver):
     taxi_tariff_block = TaxiTariffPage(driver)
     return taxi_tariff_block
 
-# @pytest.fixture
-# def 
 
